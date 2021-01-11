@@ -14,6 +14,7 @@
 I also took help from this [cheatsheet](https://medium.com/weareservian/snowflakes-snowpro-certification-exam-preparation-guide-how-to-pass-in-3-days-5e5baa484c68) which very succinctly covers all the important points.
 
 Few tips from my personal experience:
+
 a) Examination is not very difficult but the cut-off score is high so make sure that you are well prepared.
 
 b) In the multiple-choice answers, the total number of correct answers expected will be mentioned in the question itself which is very helpful
