@@ -15,9 +15,15 @@ I also took help from this [cheatsheet](https://medium.com/weareservian/snowflak
 
 Few tips from my personal experience:
 a) Examination is not very difficult but the cut-off score is high so make sure that you are well prepared.
+
 b) In the multiple-choice answers, the total number of correct answers expected will be mentioned in the question itself which is very helpful
+
 c) There will be few questions for which I could not find answers even in the official documentation after clearing the examination. The best you could do is take an intelligent guess, which you will be able to do if you have gone through official docs in detail.
+
 d) There are no scenario-based questions in the exam
+
 e) There will not be any SQL syntax or output based questions.
+
 f) In case of doubt, mark the question for review as you may get the hint from the next questions.
+
 g) Don’t worry about the time limit. If you have prepared well, you should be able to complete all the questions in 30 minutes or so.
