@@ -1,5 +1,5 @@
-# snowpro-certification
-##My notes from Snowpro certification
+# Snowpro certification
+## My notes from Snowpro certification
 
 **Learning Snowflake**: Before attending the workshop, I completed a [course](https://www.udemy.com/course/snowflake-essentials/) on Udemy which covers all the important aspects of Snowflake needed for clearing the certification. Please go through this complete course if you don’t have any knowledge of Snowflake. If you are already aware of the concepts of Snowflake, move on to the next step.
 **Snowflake University**: Once you understand the concepts of Snowflake, register yourself at [Snowflake University](http://snowflakeuniversity.mindtickle.com/), go through all the courses. There will be practice questions also, go through them carefully as there will be many questions repeating in the actual exam. There will be one section “Snowpro Cert resources”. In this section, there will be one downloadable pdf that will clearly mention the weightage of each section along with a link to Snowflake docs. Sample examination of 30 questions is also very useful along with two modules of 60 questions each.
